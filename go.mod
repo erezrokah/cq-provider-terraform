@@ -22,7 +22,7 @@ require (
 	github.com/Masterminds/squirrel v1.5.0 // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
-	github.com/cloudquery/faker/v3 v3.7.4 // indirect
+	github.com/cloudquery/faker/v3 v3.7.7 // indirect
 	github.com/cockroachdb/cockroach-go/v2 v2.1.1 // indirect
 	github.com/creasty/defaults v1.5.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
